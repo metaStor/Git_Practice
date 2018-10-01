@@ -1,4 +1,8 @@
 
 write by meta.
 
+<<<<<<< 04eb13049f559e6f77fd1804b217eb0de1a0ffc2
 write by other.
+=======
+write a bug with meta.
+>>>>>>> kill a bug with meta.
